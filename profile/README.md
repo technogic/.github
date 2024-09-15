@@ -50,8 +50,10 @@ All projects are licensed under the [MIT License](LICENSE), unless otherwise not
 
 Have any questions, feedback, or ideas? We’d love to hear from you:
 
-- Email: [info@technogic.com](mailto:info@technogic.com)
+- Email: [anupam96786@gmail.com](mailto:anupam96786@gmail.com)
+<!--
 - Website: [www.technogic.com](https://www.technogic.com)
 - Twitter: [@Technogic](https://twitter.com/Technogic)
+-->
 
 Let’s work together to unlock the magic of web development!
